@@ -108,7 +108,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>Teslaapp</finalName>
+		<finalName>Eyowoapp</finalName>
 		
 		<plugins>
 			<plugin>
