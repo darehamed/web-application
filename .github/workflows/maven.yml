@@ -1,7 +1,7 @@
 # This workflow will build a Java project with Maven, and build image and upload to dockerhub
 # documentation.
 
-name:  CI
+name:  CI and pre-deployment
 
 on:
   push:
