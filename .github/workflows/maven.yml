@@ -38,4 +38,4 @@ jobs:
       uses: docker/build-push-action@v4
       with:
           push: true
-          tags: dhamed007/sterlingbank-app:latest
+          tags: dhamed007/sterlingbank-app:V1
